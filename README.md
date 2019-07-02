@@ -1,2 +1,2 @@
-# nag
-nag repo
+# nag 
+nag repo for git commands demonstration
